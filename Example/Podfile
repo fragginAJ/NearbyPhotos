@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NearbyPhotos_Example' do
+  pod 'NearbyPhotos', :path => '../'
+
+  target 'NearbyPhotos_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
