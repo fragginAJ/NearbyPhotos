@@ -22,7 +22,7 @@ pod 'NearbyPhotos'
 
 ## Author
 
-AJ Fragoso, afragoso@fuzzproductions.com
+AJ Fragoso, @fragginaj
 
 ## License
 
