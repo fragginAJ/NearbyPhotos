@@ -1,0 +1,6 @@
+framework module NearbyPhotos {
+  umbrella header "NearbyPhotos-umbrella.h"
+
+  export *
+  module * { export * }
+}

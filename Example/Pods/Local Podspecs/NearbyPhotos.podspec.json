@@ -1,0 +1,22 @@
+{
+  "name": "NearbyPhotos",
+  "version": "0.1.0",
+  "summary": "A short description of NearbyPhotos.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AJ Fragoso/NearbyPhotos",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AJ Fragoso": "afragoso@fuzzproductions.com"
+  },
+  "source": {
+    "git": "https://github.com/AJ Fragoso/NearbyPhotos.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NearbyPhotos/Classes/**/*"
+}
