@@ -1,5 +1,12 @@
 PODS:
-  - NearbyPhotos (0.1.0)
+  - Alamofire (4.6.0)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - NearbyPhotos (0.1.0):
+    - Alamofire (~> 4.6)
+    - AlamofireImage (~> 3.3)
+    - SnapKit (~> 4.0.0)
+  - SnapKit (4.0.0)
 
 DEPENDENCIES:
   - NearbyPhotos (from `../`)
@@ -9,7 +16,10 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  NearbyPhotos: 78cf6817fdce1d1174678cf0e98dda544eb6354c
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  NearbyPhotos: 7859fd7d09ba4dfa2108e9494a05749cf01555e9
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
 
 PODFILE CHECKSUM: 8a4ca558ba6fcc4e50a577679939cde3d7db93ab
 
